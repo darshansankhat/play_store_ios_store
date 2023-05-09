@@ -68,6 +68,8 @@ flutter:
     - assets/image/o_image/
     - assets/image/s_image/
     - assets/image/ss_image/
+    - assets/image/I_image/
+    - assets/image/I_image_apps/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
